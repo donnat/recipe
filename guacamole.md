@@ -8,6 +8,7 @@ Ingredients:
 Instructions:
 - cut and mash avocados
 - chop onion
+- chop jalapeno
 - squeeze lime
 - add salt
 - and mix well
